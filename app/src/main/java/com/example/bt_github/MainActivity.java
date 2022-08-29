@@ -17,6 +17,6 @@ public class MainActivity extends AppCompatActivity {
         super.onRestart();
     }
        @Override
-    protected void onRestart() {
-        super.onRestart();
+    protected void onStart() {
+        super.onStart();
 }
